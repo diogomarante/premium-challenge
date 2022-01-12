@@ -37,6 +37,6 @@ Download or clone the repo
 
 
 
-_For an interactive visualization of the implemetation (in a 9x9 grid) please refer to [PokemonPremium](https://pokemon-premium.herokuapp.com)_
+_For an interactive visualization of the implemetation (in a 9x9 grid) please refer to [PokemonPremium](https://pokemon-premium.herokuapp.com/)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
