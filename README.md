@@ -1,3 +1,17 @@
+<br />
+<div align="center">
+  <a href="https://github.com/diogomarante/premium-challenge">
+    <img src="ash.png" alt="Ash" width="80" height="80">
+  </a>
+
+  <h3 align="center">Pokemon Premium</h3>
+
+  <p align="center">
+    An awesome challenge!
+    <a href="https://pokemon-premium.herokuapp.com">View Demo</a>
+  </p>
+</div>
+
 ### Installation
 
 Download or clone the repo
