@@ -32,7 +32,10 @@ public class Player {
                 break;
             case "O":
                 currentNode = currentNode.getO();
-                break;            
+                break;    
+            default: 
+                System.out.println("somethin went wrong parsing char: " + direction);
+                System.exit(0);        
           
         }
         if (currentNode.getPokemon()) catchPokemon();

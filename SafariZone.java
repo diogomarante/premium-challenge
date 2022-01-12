@@ -12,7 +12,7 @@ public class SafariZone {
         setNodes();
     }
 
-    public Node getCenterNode()
+    public Node getStartingNode()
     {
         return nodes[zoneData.getinitialY()][zoneData.getinitialX()];
     }
@@ -21,7 +21,7 @@ public class SafariZone {
     {
         int gridWidth = zoneData.getWidth();
         int gridHeight = zoneData.getHeight();
-        
+
         // Create the nodes
         for (int i = 0; i < gridHeight; i++) 
             for (int j = 0; j < gridWidth; j++) 

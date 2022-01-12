@@ -26,7 +26,7 @@ public class PokemonPremium {
                     break;
                 default:
                     System.out.println("somethin went wrong parsing char: " + input.charAt(i));
-                    return null;
+                    System.exit(0);
             }
         }
         
@@ -51,7 +51,7 @@ public class PokemonPremium {
         SafariZone zone = new SafariZone(zoneData);
 
         // create the player
-        Player ash = new Player(zone.getCenterNode());
+        Player ash = new Player(zone.getStartingNode());
 
         // move the player and he will check if the node has pokemon and add it to his count
         for( int i = 0 ; i < directions.length(); i++) 
