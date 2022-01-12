@@ -7,8 +7,10 @@
   <h3 align="center">Pokemon Premium</h3>
 
   <p align="center">
+    <br>
     An awesome challenge!
-    <a href="https://pokemon-premium.herokuapp.com">View Demo</a>
+    <br/>
+    <a href="https://pokemon-premium.herokuapp.com"><strong>View demo »</strong></a>
   </p>
 </div>
 
