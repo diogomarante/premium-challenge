@@ -10,7 +10,7 @@
     <br>
     An awesome challenge!
     <br/>
-    <a href="https://pokemon-premium.herokuapp.com"><strong>Explore the docs »</strong></a>
+    <a href="https://pokemon-premium.herokuapp.com"><strong>View demo »</strong></a>
   </p>
 </div>
 
