@@ -58,6 +58,7 @@ SETUP
 3. Create a (E + O + 1) x (N + S + 1) grid (SafariZone) where N,S,E,O are the directions count from the input
 4. Populate the grid with nodes (Node) and create connections between orthogonally adjacent nodes
 5. Create a player with 1 pokemon caught and starting at the node [O, N] to make sure edges are not crossed
+
 EXECUTION LOOP
 1. Move player in the next direction ( if direction is N , player current node will be currentNode -> N )
 2. Increment the pokemon count by 1 if the visited node still has a pokemon and remove it
