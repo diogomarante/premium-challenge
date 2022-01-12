@@ -52,6 +52,7 @@ Download or clone the repo
 ## Implementation
 
 Here is how my solution works:
+
 SETUP
 1. Read the input
 2. Count how many times each direction appears in the input
